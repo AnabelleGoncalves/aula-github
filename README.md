@@ -1,2 +1,2 @@
 # aula-github
-este diretorio é para fins academico
+este diretório é para fins acadêmico
